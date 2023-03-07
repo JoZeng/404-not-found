@@ -1,5 +1,5 @@
 import "./App.css";
-import scarecrow from "./assets/scarecrow.png"
+import Scarecrow from "./assets/Scarecrow.png"
 
 export default function App() {
   return (
@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
       <div className="container-card1">
       <h3>404 NOT FOUND</h3>
-      <img src={scarecrow} alt="scarecrow" />
+      <img src={Scarecrow} alt="scarecrow" />
       </div>
       <div className="container-card2">
         <h1>
