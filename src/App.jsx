@@ -20,7 +20,7 @@ export default function App() {
         <button>BACK TO HOMEPAGE</button>
       </div>
       </div>
-      <footer>created by username - devChallenges.io</footer>
+      <footer>created by JoZeng - devChallenges.io</footer>
     </div>
     
   );
