@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 scarecrow error page}</h1>
+<h1 align="center">404 scarecrow error page</h1>
 
 DEPLOY: https://404-not-found-siv7.vercel.app/
 
