@@ -2,7 +2,6 @@
 
 <h1 align="center">404 scarecrow error page</h1>
 
-DEPLOY: https://404-not-found-siv7.vercel.app/
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -10,11 +9,11 @@ DEPLOY: https://404-not-found-siv7.vercel.app/
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-siv7.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/JoZeng/404-not-found">
       Solution
     </a>
     <span> | </span>
