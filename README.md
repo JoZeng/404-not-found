@@ -2,7 +2,7 @@
 
 <h1 align="center">{404 scarecrow error page}</h1>
 
-deploy: https://404-not-found-siv7.vercel.app/
+DEPLOY: https://404-not-found-siv7.vercel.app/
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -38,7 +38,11 @@ deploy: https://404-not-found-siv7.vercel.app/
 
 ## Overview
 
-[![screenshot]([<img src="./src/assets/screenshot.png" alt="screenshot" />](https://live.staticflickr.com/65535/52733692815_1c0f4f939b_k.jpg))](https://live.staticflickr.com/65535/52733692815_1c0f4f939b_k.jpg)
+1440x1080:
+![screenshot](https://live.staticflickr.com/65535/52733713040_f78ec9cf5b.jpg)
+
+768x1024:
+![screenshot](https://live.staticflickr.com/65535/52733789523_faecb9d6b3_n.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
