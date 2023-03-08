@@ -1,6 +1,8 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 scarecrow error page}</h1>
+
+deploy: https://404-not-found-siv7.vercel.app/
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,7 +38,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](<img width="1072" alt="image" src="https://user-images.githubusercontent.com/108553026/223612314-ae7b30f4-914e-4aaa-8a2c-514a3b6e77c6.png">)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
