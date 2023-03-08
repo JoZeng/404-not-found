@@ -38,7 +38,7 @@ deploy: https://404-not-found-siv7.vercel.app/
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](<img width="1403" alt="image" src="https://user-images.githubusercontent.com/108553026/223612074-e2e596e2-f36b-45b8-8f22-b1b9b94ee8e8.png">)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
